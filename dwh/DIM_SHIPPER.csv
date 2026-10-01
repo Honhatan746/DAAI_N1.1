@@ -1,0 +1,81 @@
+﻿shipper_key,shipper_id,shipper_company,shipper_vehicle,shipper_rating,delivery_success_rate,shipper_experience_years
+1,SHP00001,Viettel Post,Truck,5.0,99.0,7
+2,SHP00002,J&T Express,Van,4.9,98.4,2
+3,SHP00003,GHN,Motorbike,4.8,95.1,10
+4,SHP00004,Viettel Post,Truck,5.0,96.3,8
+5,SHP00005,BEST Express,Truck,4.6,95.7,10
+6,SHP00006,J&T Express,Van,4.7,96.0,9
+7,SHP00007,BEST Express,Truck,4.4,99.6,6
+8,SHP00008,BEST Express,Truck,4.7,95.9,5
+9,SHP00009,BEST Express,Truck,4.3,97.4,12
+10,SHP00010,Ahamove,Motorbike,4.5,99.5,8
+11,SHP00011,J&T Express,Van,4.6,98.4,5
+12,SHP00012,GHTK,Motorbike,4.7,97.2,6
+13,SHP00013,BEST Express,Truck,4.2,97.7,10
+14,SHP00014,J&T Express,Van,4.8,96.3,8
+15,SHP00015,Viettel Post,Truck,4.3,98.8,1
+16,SHP00016,Viettel Post,Truck,4.9,96.6,6
+17,SHP00017,GHN,Motorbike,5.0,98.1,11
+18,SHP00018,GHN,Motorbike,4.3,98.5,7
+19,SHP00019,GHN,Motorbike,4.8,96.5,2
+20,SHP00020,Ninja Van,Van,5.0,95.7,6
+21,SHP00021,GHN,Motorbike,4.3,99.7,12
+22,SHP00022,Ahamove,Motorbike,4.8,99.4,7
+23,SHP00023,Shopee Express,Motorbike,4.6,95.9,6
+24,SHP00024,Ninja Van,Van,4.5,96.4,3
+25,SHP00025,GHTK,Motorbike,4.6,98.6,10
+26,SHP00026,Ninja Van,Van,4.3,96.0,11
+27,SHP00027,Ninja Van,Van,4.4,96.8,9
+28,SHP00028,GHTK,Motorbike,4.6,98.8,8
+29,SHP00029,Viettel Post,Truck,4.3,98.2,8
+30,SHP00030,Viettel Post,Truck,4.2,96.4,4
+31,SHP00031,Viettel Post,Truck,4.4,96.0,7
+32,SHP00032,BEST Express,Truck,4.8,97.1,6
+33,SHP00033,J&T Express,Van,5.0,99.9,9
+34,SHP00034,Ninja Van,Van,4.7,97.4,7
+35,SHP00035,BEST Express,Truck,4.7,98.9,2
+36,SHP00036,Ninja Van,Van,4.7,96.5,3
+37,SHP00037,GHN,Motorbike,4.3,96.7,9
+38,SHP00038,Ahamove,Motorbike,4.4,99.7,3
+39,SHP00039,Ahamove,Motorbike,4.9,97.3,8
+40,SHP00040,Ninja Van,Van,4.4,98.9,12
+41,SHP00041,J&T Express,Van,4.9,97.6,12
+42,SHP00042,Ninja Van,Van,5.0,99.8,7
+43,SHP00043,Ninja Van,Van,4.6,97.0,2
+44,SHP00044,Ninja Van,Van,5.0,95.3,12
+45,SHP00045,Ahamove,Motorbike,4.8,95.3,7
+46,SHP00046,GHTK,Motorbike,5.0,99.6,8
+47,SHP00047,Shopee Express,Motorbike,4.6,98.3,10
+48,SHP00048,Shopee Express,Motorbike,4.9,98.8,9
+49,SHP00049,Ahamove,Motorbike,4.8,98.0,6
+50,SHP00050,GHTK,Motorbike,4.4,95.2,12
+51,SHP00051,J&T Express,Van,4.6,95.1,9
+52,SHP00052,Ninja Van,Van,4.7,99.3,4
+53,SHP00053,GHTK,Motorbike,4.7,96.8,8
+54,SHP00054,BEST Express,Truck,4.7,97.8,9
+55,SHP00055,J&T Express,Van,4.2,95.8,5
+56,SHP00056,Ninja Van,Van,4.9,96.6,8
+57,SHP00057,GHTK,Motorbike,4.6,97.9,7
+58,SHP00058,GHN,Motorbike,4.6,98.3,11
+59,SHP00059,J&T Express,Van,5.0,98.9,7
+60,SHP00060,GHTK,Motorbike,4.7,95.4,11
+61,SHP00061,GHTK,Motorbike,4.8,95.1,1
+62,SHP00062,Viettel Post,Truck,4.3,98.7,1
+63,SHP00063,BEST Express,Truck,4.6,96.2,8
+64,SHP00064,J&T Express,Van,4.8,99.3,12
+65,SHP00065,Ahamove,Motorbike,4.8,97.9,2
+66,SHP00066,Ninja Van,Van,4.6,99.0,8
+67,SHP00067,Viettel Post,Truck,4.7,99.0,5
+68,SHP00068,Ninja Van,Van,4.6,99.8,2
+69,SHP00069,GHN,Motorbike,4.5,98.5,10
+70,SHP00070,Viettel Post,Truck,4.3,99.4,9
+71,SHP00071,Ahamove,Motorbike,4.7,95.9,12
+72,SHP00072,Viettel Post,Truck,4.6,99.4,12
+73,SHP00073,GHTK,Motorbike,4.9,98.6,8
+74,SHP00074,Shopee Express,Motorbike,4.5,96.8,10
+75,SHP00075,J&T Express,Van,4.3,96.7,11
+76,SHP00076,BEST Express,Truck,4.7,95.1,10
+77,SHP00077,BEST Express,Truck,4.7,99.4,9
+78,SHP00078,Shopee Express,Motorbike,5.0,96.8,11
+79,SHP00079,Shopee Express,Motorbike,4.5,95.9,11
+80,SHP00080,GHN,Motorbike,4.6,95.3,11
